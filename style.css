@@ -1,0 +1,26 @@
+header{
+    background-color: crimson;
+    color: lemonchiffon;
+    text-align: center;
+    padding: 30px 0;
+    margin-bottom: 30px;
+}
+main{
+    background-color: lightcoral;
+    width: 600px;
+    padding: 25px;
+    border: solid 5px red;
+}
+.a {
+    background-color: #1D3C41;
+    color: #fff;
+    padding: 75px 0;
+    text-align: center;
+}
+.b {
+    display: flex;
+}
+
+.c {
+    margin: 0 10px;
+}
